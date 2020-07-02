@@ -31,6 +31,6 @@ footer {
    width: 25%;
    background-color: red;
    color: white;
-   text-align: center
-   float: center
+   text-align: center;
+   float: center;
 }
