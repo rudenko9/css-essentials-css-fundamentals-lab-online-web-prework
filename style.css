@@ -22,11 +22,3 @@ display: block;
 float: left;
 
 }
-
-footer {
-   position: fixed;
-   width: 25%;
-   background-color: red;
-   color: white;
-   text-align: center;
-}
